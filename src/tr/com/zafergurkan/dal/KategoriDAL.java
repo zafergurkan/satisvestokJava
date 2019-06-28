@@ -2,7 +2,6 @@ package tr.com.zafergurkan.dal;
 
 import tr.com.zafergurkan.core.ObjectHelper;
 import tr.com.zafergurkan.interfaces.DALInterfaces;
-import tr.com.zafergurkan.types.KategoriContract;
 
 import java.util.List;
 
